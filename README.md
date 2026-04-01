@@ -84,7 +84,7 @@ To build a **generic, configurable decision platform** that can support multiple
 ## 🏗️ System Architecture
 
 ```
-[Architecture Diagram](images/architecture.png)
+![Architecture Diagram](images/architecture.png)
 ```
 
 ---
