@@ -1,0 +1,14 @@
+{
+  "loan": [
+    {
+      "name": "salary_check",
+      "condition": "salary > 30000",
+      "fail_action": "REJECT"
+    },
+    {
+      "name": "credit_check",
+      "condition": "credit_score > 650",
+      "fail_action": "MANUAL_REVIEW"
+    }
+  ]
+}

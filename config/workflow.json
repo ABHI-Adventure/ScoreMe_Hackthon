@@ -1,0 +1,9 @@
+{
+  "loan": [
+    "START",
+    "VALIDATION",
+    "RULE_CHECK",
+    "DECISION",
+    "END"
+  ]
+}
